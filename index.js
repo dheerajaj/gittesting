@@ -1,0 +1,2 @@
+function showAlert(){
+    alert("HII")}
