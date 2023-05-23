@@ -1,6 +1,7 @@
 *{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: whitesmoke;
     font-style: italic;
+    
 }
 header{
     background-color: skyblue;
@@ -24,13 +25,16 @@ nav ul li a{
 h1{ font-weight:bold;
     font-style: oblique;
     font-family: cursive;
-    
+    margin-left: inherit;
   }
 p{ align-items: center;
     font-style: italic;
     color: black;
     font-size: large;
-    text-align: center;
+    text-align: left;
+    margin-left: inherit;
+    margin-right: inherit;
+    
 }
 img{ justify-content: center;
     align-items: center;
@@ -48,4 +52,8 @@ footer{ text-align:center;
         padding: 10px;
 
 
+}
+#b1{
+    margin-left: inherit;
+    
 }
